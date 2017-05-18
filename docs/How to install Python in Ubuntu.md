@@ -1,7 +1,6 @@
 # How to install Python in Ubuntu
 
-1. By default python2 and python 3 come pre-installed in Ubuntu. You can check the version of each of them by following the given procedure.
-  1. Open the terminal from either of the given two steps
+1. By default python2 and python 3 come pre-installed in Ubuntu. You can check the version of each of them by following the given procedure.Open the terminal from either of the given two steps
 
     i. Open the Search Dash by clicking the Ubuntu icon in the upper-left, type "terminal", and select the Terminal application from the results that appear.
 
@@ -9,7 +8,7 @@
 
 
     ii. Press `Ctrl+Alt+T` from the keyboard.
-    
+
 2. To check the version of python2, type `python2 --version` in the terminal. You can also type `python --version` in the shell as by default python2 will be displayed. To check the version of python3, use the command `python3 --version`
 
 ![python version](/img/python_version.png)
