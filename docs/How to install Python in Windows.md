@@ -1,14 +1,14 @@
-#How to install Python in Windows
+# How to install Python in Windows
 
-1. *Download:* To download Python version, find the suitable copy here . The latest for Python 2 is 2.7.13
+1. _Download:_ To download Python version, find the suitable copy here . The latest for Python 2 is 2.7.13
 
 ![python.org](/img/python-download.png)
 
-2. *Install:* After downloading Python, we need to install it in our system.Navigate to the download location on your computer, double click the file and press Run when the dialogue box pops up. It may ask for your admin password, enter where required.
+2. _Install:_ After downloading Python, we need to install it in our system.Navigate to the download location on your computer, double click the file and press Run when the dialogue box pops up. It may ask for your admin password, enter where required.
 
 ![python install](/img/python_add.png)
 
-3. *Set Path:* Once you have successfully installed Python, you need to add System Path Variable so that Python can be accessed from anywhere in the system.
+3. _Set Path:_ Once you have successfully installed Python, you need to add System Path Variable so that Python can be accessed from anywhere in the system.
 
     i. Begin by opening the start menu and search for System Properties.
 
