@@ -11,7 +11,7 @@ Pycharm comes in two editions, Professional and Community. One can either downlo
 
 3. Go to the folder that contains this downloaded file. Double click on the executable file. A setup window will appear. Click Next
 
-![save file](/img/indtall_pycharm.png)
+![save file](/img/install_pycharm.png)
 
 
 4. Let the destination folder remain the default one. Click on Next.
@@ -36,7 +36,7 @@ Pycharm comes in two editions, Professional and Community. One can either downlo
 
 8. Click on Finish and you can check Run Pycharm if you want to immediately run it.
 
-![finsih installation](/img/install_pycharm.png)
+![finsih installation](/img/successful_pycharm.png)
 
 
 9. When you will run Pycharm for the first time, You will see a pop-up to import settings. Choose No import settings and move ahead.
