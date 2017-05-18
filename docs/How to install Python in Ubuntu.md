@@ -4,10 +4,11 @@
 
     i. Open the Search Dash by clicking the Ubuntu icon in the upper-left, type "terminal", and select the Terminal application from the results that appear.
 
-![terminal](/img/terminal.png)
+	![terminal](/img/terminal.png)
 
 
     ii. Press `Ctrl+Alt+T` from the keyboard.
+
 
 2. To check the version of python2, type `python2 --version` in the terminal. You can also type `python --version` in the shell as by default python2 will be displayed. To check the version of python3, use the command `python3 --version`
 
@@ -16,7 +17,7 @@
 
 3. In case you do not have python 2.7 installed, you can do it manually.
 
-4. Use this link to land to the download page of Python organisation from where you can then download the latest Python2 which by now is 2.7.13.
+4. Use this [link](https://www.python.org/downloads/) to land to the download page of Python organisation from where you can then download the latest Python2 which by now is 2.7.13.
 
 ![python org](/img/python-download.png)
 

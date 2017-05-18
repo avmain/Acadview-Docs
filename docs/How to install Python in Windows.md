@@ -1,6 +1,6 @@
 # How to install Python in Windows
 
-1. **Download:** To download Python version, find the suitable copy here . The latest for Python 2 is 2.7.13
+1. **Download:** To download Python version, find the suitable copy [here](https://www.python.org/downloads/) . The latest for Python 2 is 2.7.13
 
 ![python.org](/img/python-download.png)
 
