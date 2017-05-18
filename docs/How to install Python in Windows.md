@@ -5,16 +5,20 @@ How to install Python in Windows
 ![python.org](/img/python-download.png)
 
 2. Install: After downloading Python, we need to install it in our system.Navigate to the download location on your computer, double click the file and press Run when the dialogue box pops up. It may ask for your admin password, enter where required.
-https://d2mxuefqeaa7sj.cloudfront.net/s_EC6E89CD6AB8E58FAEB1741A08DAEF7A7935DFCC68CA1E07CEED87B46A0E0BAB_1494786654032_python_add.png
+
+![python install](/img/python_add.png)
 
 3. Set Path: Once you have successfully installed Python, you need to add System Path Variable so that Python can be accessed from anywhere in the system.
     i. Begin by opening the start menu and search for System Properties.
     ii. When the “System Properties” window appears, go to “Advanced” tab and the click on “Environment Variables…”
-https://d2mxuefqeaa7sj.cloudfront.net/s_EC6E89CD6AB8E58FAEB1741A08DAEF7A7935DFCC68CA1E07CEED87B46A0E0BAB_1494786693199_system.png
+
+
+![Environment variable](/img/python_path_variable.png)
 
     iii. Once you have the “Environment Variables” window open, click on new to create a “New ….“ variable for Python.
     iv. Choose a variable name, say, PythonPath and then add the path of the directory than holds python after installation. This is generally the C:/ drive. So enter the path `C:\Python27\;C:\Python27\Scripts;`
-https://d2mxuefqeaa7sj.cloudfront.net/s_EC6E89CD6AB8E58FAEB1741A08DAEF7A7935DFCC68CA1E07CEED87B46A0E0BAB_1494786724215_systemvariable.png
+
+![Python path](/img/pythonpath.png)
 
 
 
