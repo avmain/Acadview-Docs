@@ -55,6 +55,7 @@
 
 ![](/img/git13.png)
 
+
 **We will now configure our github account through the command prompt**
 1. Create an account on [github](https://github.com/) if not already created.
 
@@ -73,16 +74,16 @@
   ![github form](/img/github_form.png)
 
 
-5. To open the command promt, search for it.
+2. To open the command promt, search for it.
 
 ![](/img/git14.png)
    
-7. set up github with git use the command below, and replace 'github_username' with your username on github. (as chosen in the 4th step) `git config --global user.name "github_username"`
+3. set up github with git use the command below, and replace 'github_username' with your username on github. (as chosen in the 4th step) `git config --global user.name "github_username"`
 
   **for example, for username name09, use the command:
    `git config --global user.name "name09"`**
 
-6. Set your email with the command below and replace 'email@example.com' with the email address you used to create the account on github. (as chosen in the 4th step) `git config --global user.email "email@example.com"`   
+4. Set your email with the command below and replace 'email@example.com' with the email address you used to create the account on github. (as chosen in the 4th step) `git config --global user.email "email@example.com"`   
 
   **for example, for email name109@gmail.com, use the command :
   `git config --global user.email "name109@gmail.com"`**
