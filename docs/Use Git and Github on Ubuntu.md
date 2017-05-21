@@ -28,13 +28,13 @@
 
   	iii. After you continue, you will get to step 3, you can fill in your choices as any and press submit or can simply skip that step. In both cases, your account will be created.
 
-  	![github form](/imd/github_form.png)
+  	![github form](/img/github_form.png)
 
 
 5. To set up github with git use the command below, and replace 'github_username' with your username on github. (as chosen in the 4th step) `git config --global user.name "github_username"`
 
   **for example, for username name09, use the command:
-   `git config --global user.name"name09"`**
+   `git config --global user.name "name09"`**
 
 6. Set your email with the command below and replace 'email@example.com' with the email address you used to create the account on github. (as chosen in the 4th step) `git config --global user.email "email@example.com"`   
 
