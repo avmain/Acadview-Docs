@@ -74,7 +74,7 @@
   ![github form](/img/github_form.png)
 
 
-2. To open the command promt, search for it.
+2. To open the command prompt, search for it.
 
 ![](/img/git14.png)
    
