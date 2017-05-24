@@ -8,7 +8,6 @@ Postman is a chrome app. So you will need the chrome browser in your system. If 
 ![](/img/chrome5.png)
 
 
-
 ![](/img/chrome6.png)
 
 
@@ -17,13 +16,10 @@ Postman is a chrome app. So you will need the chrome browser in your system. If 
 ![](/img/chrome7.png)
 
 
-
 ![](/img/chrome1.png)
 
 
-
 ![](/img/chrome2.png)
-
 
 
 3. After it gets installed, go to dashboard and search from chrome. Double click on it to launch it.
