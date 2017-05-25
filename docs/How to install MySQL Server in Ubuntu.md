@@ -1,13 +1,13 @@
 # How to install MySQL Server in Ubuntu
 
-1. Open the terminal. Use the command `sudo apt-get install mysql`.
+1. Open the terminal. Use the command `sudo apt-get install mysql-server`.
 
 2. It will start the installation. Type `Y` or `y` when asked to continue.
 
 ![](/img/mysql1.png)
 
 
-3. You may be asked to type a password to for the user. Enter a password of you choice. Remember this password or better write it down as it will be needed to access mysql server later.
+3. You may be asked to type a password to for the user. Enter a password of you choice. **Remember this password or better write it down as it will be needed to access mysql server later.**
 
 4. Once the installation is done, you will see something like the below.
 
