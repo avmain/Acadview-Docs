@@ -2,7 +2,7 @@
 
 The PostgreSQL installer for Windows has PostgreSQL server and pgAdmin which is a GUI for managing databases. We'll look how to install them and then connect to the server.
 
-1. Use this [link]() to download the executible file of the installer. Choose a version of PostgreSQL (for example, 9.5) and choose your system type, that is, 32 or 64 bit. Click on Download.
+1. Use this [link](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads#windows) to download the executible file of the installer. Choose a version of PostgreSQL (for example, 9.5) and choose your system type, that is, 32 or 64 bit. Click on Download.
 
 ![](/img/postgresw1.png)
 
